@@ -17,7 +17,7 @@ A Python tool for batch downloading academic papers from Sci-Hub using DOIs from
 
 1. Clone this repository:
 ```bash
-[git clone https://github.com/yourusername/SciHub-Downloader.git](https://github.com/jhxu003/SciHub-Downloader.git)
+git clone https://github.com/jhxu003/SciHub-Downloader.git
 cd SciHub-Downloader
 ```
 
