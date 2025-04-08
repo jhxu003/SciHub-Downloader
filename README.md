@@ -17,7 +17,7 @@ A Python tool for batch downloading academic papers from Sci-Hub using DOIs from
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/SciHub-Downloader.git
+[git clone https://github.com/yourusername/SciHub-Downloader.git](https://github.com/jhxu003/SciHub-Downloader.git)
 cd SciHub-Downloader
 ```
 
@@ -39,12 +39,6 @@ python scihub_downloader.py --input your_file.xlsx --output pdf_directory
 - `--input`: Path to the input Excel file (required)
 - `--output`: Directory to save downloaded PDFs (optional, defaults to './pdf')
 - `--delay`: Delay between downloads in seconds (optional, defaults to 5)
-
-## Example
-
-```bash
-python scihub_downloader.py --input PD1-paper.xlsx --output ./papers --delay 3
-```
 
 ## Output
 
