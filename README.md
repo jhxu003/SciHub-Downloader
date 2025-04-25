@@ -70,3 +70,6 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jhxu003/SciHub-Downloader&type=Date)](https://www.star-history.com/#jhxu003/SciHub-Downloader&Date)
